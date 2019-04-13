@@ -1,2 +1,2 @@
 # vocoltest
-playing with VoCol
+playing with [VoCol](https://github.com/vocol/vocol)
